@@ -1,5 +1,5 @@
 Data Dictionary for Hot Dog Data frame
 Is a Hot Dog a Sandwich?;  Includes the respose 'Yes' or 'No' indicating if the respondent thinks a hot dog is a sandwich. 
 Exaplain your Answer: Optional response for respondent to explain why they think a hot dog is a sandwich. Potential answers include any length of string. 
-What year are you? Allows respondent to bubble in college year, either 1st, 2nd, 3rd, 4th, or Graduate.  
-Where are you from? Optional response for respondent to list where they're from. Potential answers includde any length of string. 
+What year are you? Allows respondent to select college year, either 1st, 2nd, 3rd, 4th, or Graduate.  
+Where are you from? Optional response for respondent to list where they're from. Potential answers include any length of string. 
